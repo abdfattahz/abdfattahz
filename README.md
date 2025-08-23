@@ -21,11 +21,14 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=abdfattahz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- GitHub Readme Stats -->
+![](https://github-readme-stats.vercel.app/api?username=abdfattahz&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=abdfattahz&theme=tokyonight&hide_border=false)<br/>
+<!-- Streak (demolab fork is reliable) -->
+![](https://streak-stats.demolab.com?user=abdfattahz&theme=tokyonight&hide_border=false&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdfattahz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Top languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdfattahz&theme=tokyonight&layout=compact&cache_seconds=1800)
 
 </div>
 
