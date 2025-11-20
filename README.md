@@ -4,7 +4,7 @@
 💻 Currently in ASEM - NSEP Embedded Systems for IoT program  
 📚 Skilled in C++, Qt/QML, Embedded C, Linux, IoT, Python, JavaScript, and Data Analytics  
 🔧 Hands-on projects: bare-metal firmware, sensor systems, and debugging frameworks  
-🚀 Interested in software development, embedded systems, firmware, and IoT development roles  
+🚀 Interested in software development, embedded systems, data analytics, and IoT development roles  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdfattah)!  
 
 
