@@ -40,3 +40,5 @@
 
 </div>
 
+> Note: Some commit dates occur before my GitHub account creation date because these lessons were completed locally before I started using GitHub. I later pushed them here for tracking and documentation.
+
