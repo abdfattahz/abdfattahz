@@ -38,17 +38,17 @@
 <div align="center">
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=a&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=abdfattahz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=abdfattahz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+</div> -->
 
 > Note: Some commit dates occur before my GitHub account creation date because these lessons were completed locally before I started using GitHub. I later pushed them here for tracking and documentation.
 
