@@ -21,6 +21,9 @@
 ## 📊 GitHub Stats:
 <div align="center">
 
+<!-- GitHub Stats -->
+<!-- ![](https://github-readme-z.vercel.app/api?username=abdfattahz&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true) -->
+
 <!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-streak-stats-tau-green.vercel.app?user=abdfattahz&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
