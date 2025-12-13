@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abdfattahz&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 <!-- Streak (demolab fork is reliable) -->
-![](https://streak-stats.demolab.com?user=abdfattahz&theme=tokyonight&hide_border=false&cache_seconds=1800)
+![](https://streak-stats.demolab.com?user=abdfattahz&theme=tokyonight&hide_border=false)
 
 <!-- Top languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdfattahz&theme=tokyonight&layout=compact&cache_seconds=1800)
