@@ -1,10 +1,9 @@
 ## Hi there, I'm Fattah 👋
 
-🧠 Avionics Engineering graduate (UniKL MIAT), Dean’s List Awardee  
-💻 Currently in ASEM - NSEP Embedded Systems for IoT program  
-📚 Skilled in C++, Qt/QML, Embedded C, Linux, IoT, Python, JavaScript, and Data Analytics  
-🔧 Hands-on projects: bare-metal firmware, sensor systems, and debugging frameworks  
-🚀 Interested in software development, embedded systems, data analytics, and IoT development roles  
+🧠 Avionics Engineering graduate (UniKL MIAT), Dean’s List Awardee    
+📚 Skilled in Python, MySQL, Linux, C++, Qt/QML, Embedded C, IoT and JavaScript  
+🔧 Hands-on projects: data cleaning, bare-metal firmware, sensor systems, and debugging frameworks  
+🚀 Interested in data engineering, software development, embedded systems, and IoT development roles  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdfattah)!  
 
 
