@@ -1,46 +1,51 @@
-# Hi, I'm Fattah 👋
+## Hi there, I'm Fattah 👋
 
-I'm a **.NET Backend Developer** building enterprise services with C#, ASP.NET Core, Entity Framework, and SQL Server. I currently support delivery under the PETRONAS Global Delivery Centre programme at AEM Energy Solutions.
+🧠 Avionics Engineering graduate (UniKL MIAT), Dean’s List Awardee    
+📚 Skilled in Python, MySQL, Linux, C++, Qt/QML, Embedded C, IoT and JavaScript  
+🔧 Hands-on projects: data cleaning, bare-metal firmware, sensor systems, and debugging frameworks  
+🚀 Interested in data engineering, software development, embedded systems, and IoT development roles  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdfattah)!  
 
-My path into software started with an avionics engineering degree and hands-on work in embedded systems. That background shaped how I approach backend development: understand the system, trace failures to their source, and build predictable solutions with clear boundaries.
 
-- 🔭 Currently working on enterprise backend services and REST APIs
-- 🧩 Interested in backend architecture, full-stack systems, embedded software, and practical data work
-- 🎓 Bachelor of Aircraft Engineering Technology (Hons) in Avionics, UniKL MIAT
-- 📍 Puchong, Selangor, Malaysia
-- 📫 [LinkedIn](https://www.linkedin.com/in/abdfattah) · [Email](mailto:abdulfattahh13@gmail.com)
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdfattah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulfattahh13@gmail.com) -->
 
-## Tech stack
-
-- **Backend:** C#, ASP.NET Core, Entity Framework, PHP, Laravel, REST APIs, authentication, role-based access control
-- **Frontend:** TypeScript, JavaScript, Next.js, React, Blade, Livewire, Alpine.js, Tailwind CSS
-- **Databases and data:** SQL Server, MySQL, PostgreSQL, Python, pandas, R, Tableau, Microsoft Excel
-- **Embedded:** C++, C, Qt/QML, Arduino, UART, I2C, ADC, sensors
-- **Tools:** Git, GitHub, Docker, Linux, Keycloak, Playwright, PHPUnit, IIS, Vercel
-
-## Selected work
-
-### Enterprise and web systems
-
-- **PETRONAS GDC backend delivery** — Develop C# and ASP.NET Core services, REST APIs, business logic, and SQL Server integrations within an enterprise delivery environment.
-- **JPJ eChange** — Built a Laravel change-request system covering submission, review, approval, implementation, and closure, with Keycloak SSO, role-based routing, audit logs, bilingual support, and automated tests.
-- **SCMS Masterlist** — A Laravel client registry with claim-and-ownership workspaces for Tax, Audit, COSEC, and Accounting teams.
-- **SCMS IT Knowledge Base Portal** — Built an internal Next.js portal for IT documentation, laptop and phone asset tracking, announcements, and permission-based administration.
-
-### Engineering and learning projects
-
-- **AGC Drone Apps experiments** — C++ and Qt/QML path-planning work for concave and irregular polygons, including transect generation and visibility-based connectors.
-- **[.NET practice](https://github.com/abdfattahz/dotnet-practice)** — Structured exercises and notes while developing ASP.NET Core backend skills.
-- **[Embedded Systems Development for IoT](https://github.com/abdfattahz/ASEM-NSEP-Embedded-Systems)** — Embedded C, Linux, sensor integration, and IoT coursework.
-- **[Youth unemployment analysis](https://github.com/abdfattahz/youth-unemployment-data-analysis)** — Ten-year Malaysian youth unemployment analysis using spreadsheet modelling, pivot tables, KPIs, and visualisations.
-- **[World life expectancy](https://github.com/abdfattahz/world-life-expectancy)** — MySQL data-cleaning project using joins, window functions, and controlled update logic.
-
-## GitHub activity
-
+## 💻 Tech Stack:
 <div align="center">
-
-![Top languages](https://github-readme-z.vercel.app/api/top-langs/?username=abdfattahz&theme=tokyonight&layout=compact&cache_seconds=1800)
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 
 </div>
 
-> Some commit dates predate this GitHub account because the work was completed locally and pushed later for tracking and documentation.
+## 📊 GitHub Stats:
+<div align="center">
+
+<!-- GitHub Stats -->
+<!-- ![](https://github-readme-z.vercel.app/api?username=abdfattahz&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true) -->
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats-tau-green.vercel.app?user=abdfattahz&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+<!-- Top languages -->
+![](https://github-readme-z.vercel.app/api/top-langs/?username=abdfattahz&theme=tokyonight&layout=compact&cache_seconds=1800)
+
+</div>
+
+
+<!-- <div align="center">
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdfattahz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div> -->
+
+---
+
+<!-- <div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=abdfattahz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div> -->
+
+> Note: Some commit dates occur before my GitHub account creation date because these lessons were completed locally before I started using GitHub. I later pushed them here for tracking and documentation.
+
